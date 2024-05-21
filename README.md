@@ -21,8 +21,7 @@ B2B sales pipeline data from a fictitious company that sells computer hardware.
 ### Revenue by Sector:
 * Retail, technology, and medical sectors have the highest revenues.
 * Retail sector has the highest revenue ($3,081,102.85) and win rate (50.79%).
-* Data Visualization 2: Revenue Breakdown
-* Revenue by Regional Office:
+### Revenue by Regional Office:
 * The West region generates the most revenue, followed by Central and East.
 ### Revenue by Product:
 * GTXPro is the top product by revenue, followed by GTX Plus Pro and MG Advanced.
